@@ -20,8 +20,8 @@ Actual: Left    | 387               | 244
 
 |               | First Header  | Second Header
 | ------------- | ------------- | -------------
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell
+| Content Cell  | Content Cell  | Content Cell
 
 Tuned Model Performance: 85.80%
 
