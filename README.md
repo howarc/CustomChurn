@@ -18,10 +18,10 @@ Baseline Model Performance: 85.23%
 Actual: Stayed  | 2333              | 56
 Actual: Left    | 387               | 244
 
-|               | First Header  | Second Header
-| ------------- | ------------- | -------------
-| Content Cell  | Content Cell  | Content Cell
-| Content Cell  | Content Cell  | Content Cell
+|               | Predicted: Stayed | Predicted: Left
+| ------------- | ----------------- | -------------
+| Actual: Stayed| 2333              | 56
+| Actual: Left  | 387               | 244
 
 Tuned Model Performance: 85.80%
 
