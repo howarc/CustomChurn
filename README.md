@@ -14,9 +14,9 @@ Dataset was obtained from https://www.kaggle.com/datasets/gauravtopre/bank-custo
 
 ## Conclusion
 Baseline Model Performance: 85.23%
- | Predicted: Stayed | Predicted: Left
-Actual: Stayed  | 2333 | 56
-Actual: Left  | 387 | 244
+                | Predicted: Stayed | Predicted: Left
+Actual: Stayed  | 2333              | 56
+Actual: Left    | 387               | 244
 
 Tuned Model Performance: 85.80%
 
