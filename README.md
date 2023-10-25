@@ -14,16 +14,17 @@ Dataset was obtained from https://www.kaggle.com/datasets/gauravtopre/bank-custo
 
 ## Conclusion
 Baseline Model Performance: 85.23%
-                | Predicted: Stayed | Predicted: Left
-Actual: Stayed  | 2333              | 56
-Actual: Left    | 387               | 244
-
 |               | Predicted: Stayed | Predicted: Left
 | ------------- | ----------------- | -------------
 | Actual: Stayed| 2333              | 56
 | Actual: Left  | 387               | 244
 
+
 Tuned Model Performance: 85.80%
+|               | Predicted: Stayed | Predicted: Left
+| ------------- | ----------------- | -------------
+| Actual: Stayed| 2303              | 86
+| Actual: Left  | 340               | 271
 
 The tuned model demonstrates a slightly better performance in contrast to the baseline model. Of particular significance is that the tuned model is better at predicting if a customer is going to leave the bank, which is arguably the most important criteria we are looking for in this type of analysis. Overall, the model demonstrates promising capacity to guide our decision-making processes regarding customer retention.
 
