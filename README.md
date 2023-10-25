@@ -1,6 +1,5 @@
 # Custom Churn Project
-
-This project aims to create accurate predictive models for customer retention using random forests.
+This project aims to create accurate predictive models for customer retention using random forests in sklearn. <br>
 Dataset was obtained from https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset.
 
 ## Procedure
@@ -12,7 +11,7 @@ Dataset was obtained from https://www.kaggle.com/datasets/gauravtopre/bank-custo
   * Compared baseline model to the tuned model.
   * Generated conclusions based on the models and generated actionable insights for future steps.
 
-## Conclusion
+## Results
 Baseline Model Performance: 85.23%
 |               | Predicted: Stayed | Predicted: Left
 | ------------- | ----------------- | -------------
