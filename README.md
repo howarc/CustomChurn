@@ -1,4 +1,4 @@
-# Custom Churn Project
+# Customer Churn Project
 This project aims to create accurate predictive models for customer retention using random forests in sklearn. <br>
 Dataset was obtained from https://www.kaggle.com/datasets/gauravtopre/bank-customer-churn-dataset.
 
